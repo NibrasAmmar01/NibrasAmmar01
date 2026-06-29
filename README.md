@@ -9,6 +9,8 @@
 ╚═╝  ╚═══╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
+![Profile Views](https://komarev.com/ghpvc/?username=NibrasAmmar01&color=58a6ff&style=flat-square)
+
 ### Backend Software Engineer · Microservices · AI/ML
 **Building production-grade systems from Ariana, Tunisia**
 
@@ -23,11 +25,15 @@
 
 ## About
 
-Recently graduated from **ENIT** with a national engineering degree in computer science. Currently working as a Backend Software Engineer at **Auvelisse**, architecting and maintaining production microservices for a hospitality software platform.
+Recently graduated from ENIT with a national engineering degree in computer science, currently building production-grade systems at Auvelisse.
 
-I focus on distributed systems, clean API design, and bridging backend engineering with AI/ML — from fine-tuning LLMs to deploying containerized services at scale.
+My work sits at the intersection of distributed systems and AI/ML — I've designed event-driven architectures with Kafka, orchestrated containerized deployments with Kubernetes, fine-tuned Llama-3 for domain-specific Q&A, and shipped an end-to-end AI-powered lead generation pipeline. I care about systems that scale cleanly, APIs that are a pleasure to consume, and codebases that don't collapse under their own weight.
+
+Currently deepening my expertise in LLM integration, cloud-native architecture, and scalable system design.
 
 ---
+
+
 
 ## Tech Stack
 
@@ -49,8 +55,8 @@ I focus on distributed systems, clean API design, and bridging backend engineeri
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+
 
 **Frontend & Mobile**
 
