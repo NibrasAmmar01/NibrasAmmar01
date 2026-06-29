@@ -151,8 +151,9 @@ Jun – Jul 2023   Intern                       VERMEG
 
 <div align="center">
 
-![Nebras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NibrasAmmar01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NibrasAmmar01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Nebras's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=NibrasAmmar01&theme=github-compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=NibrasAmmar01&theme=dark&hide_border=true)
+
 
 </div>
 
