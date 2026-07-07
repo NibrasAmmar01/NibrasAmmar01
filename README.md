@@ -142,13 +142,13 @@ Feb – Jul 2025   Intern                       Sofrecom Tunisia
                  Monolith → microservices migration. Docker + Kubernetes.
                  GitLab CI/CD pipeline setup. Spring Cloud security layer.
 
-Jul – Aug 2024   Intern                       TAC TIC
-                 Facial recognition with Siamese networks on ESP32-CAM.
-                 React web interface for real-time recognition display.
-
-Jun – Jul 2023   Intern                       VERMEG
+Jul – Aug 2024  Intern                       VERMEG
                  Fine-tuned Llama-3 8B for medical Q&A. Built local UI.
                  Automated evaluation pipeline based on user feedback.
+
+Jun – Jul 2023   Intern                       TAC TIC
+                 Facial recognition with Siamese networks on ESP32-CAM.
+                 React web interface for real-time recognition display.
 ```
 
 ---
