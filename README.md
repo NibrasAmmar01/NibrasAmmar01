@@ -142,7 +142,7 @@ Feb – Jul 2025   Intern                       Sofrecom Tunisia
                  Monolith → microservices migration. Docker + Kubernetes.
                  GitLab CI/CD pipeline setup. Spring Cloud security layer.
 
-Jul – Aug 2024  Intern                       VERMEG
+Jul – Aug 2024   Intern                       VERMEG
                  Fine-tuned Llama-3 8B for medical Q&A. Built local UI.
                  Automated evaluation pipeline based on user feedback.
 
